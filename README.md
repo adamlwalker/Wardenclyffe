@@ -4,7 +4,7 @@
 
 Wardenclyffe is a Ruby RFID framework for Reading, Writing and Manipulating a wide variety of Tags and Readers.
 
-## Supported Hardware
+## Planned Supported Hardware
 ### UHF
 * Impinj Speedway Revolution
 * MTI RFID ME (RU-888)
