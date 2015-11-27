@@ -22,3 +22,10 @@ Wardenclyffe is a Ruby RFID framework for Reading, Writing and Manipulating a wi
 ### HF
 
 ### NFC
+
+## Intent
+Obviously this is a work in progress but as of Nov. 27th I am working on identifying the best cross platform method of supporting a broad range of devices. 
+
+I am looking towards Artoo for inspiration as I think it is easy to work with and straight forward.
+
+If you have a device you would like to see supported please submit a issue.
